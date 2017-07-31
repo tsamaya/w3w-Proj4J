@@ -1,5 +1,6 @@
 package com.what3words.sample;
 
+import com.what3words.Coordinates;
 import com.what3words.LatLng;
 import com.what3words.What3WordsException;
 import org.osgeo.proj4j.CRSFactory;

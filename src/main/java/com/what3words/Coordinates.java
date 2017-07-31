@@ -1,4 +1,4 @@
-package com.what3words.sample;
+package com.what3words;
 
 /**
  * Created by arnaud on 29/07/17.
